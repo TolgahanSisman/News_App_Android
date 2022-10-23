@@ -1,0 +1,6 @@
+Tolgahan Şişman
+----------------------------------------------------------------------
+- Haberler https://newsapi.org/ sitesinden çekilmiştir.		     
+- SearchBar ile arama yapılabiliyor.				     
+- Haberlere ait hücrelere tıklanıldığı zaman detay ekranı açılıyor.  
+- Haberin detayları ekrana geliyor. 					
